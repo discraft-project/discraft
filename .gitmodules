@@ -1,0 +1,6 @@
+[submodule "discraft-bot"]
+	path = discraft-bot
+	url = https://github.com/discraft-project/discraft-bot.git
+[submodule "discraft-plugin"]
+	path = discraft-plugin
+	url = https://github.com/discraft-project/discraft-plugin.git
